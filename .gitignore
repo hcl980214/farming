@@ -1,0 +1,15 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+# 图片文件
+
+!/历史活动/
+!/pictures/
+!/.gitignore
+!/.idea/
